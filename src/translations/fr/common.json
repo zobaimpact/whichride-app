@@ -1,0 +1,13 @@
+{
+  
+  "task": {
+    "heading": "Todo",
+    "form" : {
+      "title": "Titre",
+      "addbutton": "ajouter",
+      "cancelbutton": "Annuler",
+      "priority": "Priorité" 
+    }
+  }
+  
+}

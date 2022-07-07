@@ -1,0 +1,6 @@
+{
+  "Urls": {
+    "baseDev": "https://schedoolapi.herokuapp.com/api/v1",
+    "baseProd": "https://schedoolapi.herokuapp.com/api/v1"
+  }
+}

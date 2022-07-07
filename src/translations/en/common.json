@@ -1,0 +1,17 @@
+{
+  "landing": {
+    "heading": "Welcome to Max.ng",
+    "subheading": "Lorem Ipsum"
+  },
+  
+  "task": {
+    "heading": "Payment",
+    "form" : {
+      "title": "Title",
+      "addbutton": "Pay Now",
+      "cancelbutton": "Cancel",
+      "priority": "Priority" 
+    }
+  }
+  
+}

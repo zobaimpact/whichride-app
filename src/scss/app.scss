@@ -1,0 +1,27 @@
+@import "settings/variable"; //themes' colors
+
+//vendor...
+@import "./vendor";
+
+//base...
+@import "generic/normalize.scss";
+@import "generic/box-sizing.scss";
+@import "./base/scaffolding"; // styles of base elements
+@import "./base/typography"; // base styles of h1-h6, p, span
+
+//components...
+@import "./component/btn";
+@import "./component/dashboard";
+@import "./component/table";
+@import "./component/form";
+@import "./component/sidebar";
+@import "./component/panel";
+@import "./component/spinner";
+@import "./component/topbar";
+
+//pages...
+@import "pages/account";
+@import "pages/landing";
+
+//objects...
+@import "objects/layout.scss"; // layout settings
